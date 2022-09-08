@@ -1,0 +1,11 @@
+_id: spc_b18787a5d5ca47c99507d06594ec0226
+type: ApiSpec
+parentId: wrk_d22591da1f264ec5b36a35066d3f91e9
+modified: 1662635401836
+created: 1662635239721
+fileName: users.json
+contents: |-
+  {
+    "name": "Fariz"
+  }
+contentType: yaml
